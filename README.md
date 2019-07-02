@@ -1,0 +1,2 @@
+# RedGamermc
+server
